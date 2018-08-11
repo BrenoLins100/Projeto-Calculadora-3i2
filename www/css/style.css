@@ -1,2 +1,70 @@
 /**/
+@import url('https://fonts.googleapis.com/css?family=Oswald');
 
+h1{
+    text-align: center;
+}
+
+button, label
+{
+
+margin-top: 10px;
+}
+
+body{
+    background-color: #80ffe5;
+}
+
+
+
+#calcular{
+    background-color:#0066cc;
+    color:white;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+#limpar{
+    background-color:red;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    border-radius: 5px;
+    
+    
+}
+.jumbotron{
+    background-color: yellow;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    background-color:#0066cc;
+    
+}
+
+label{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    
+}
+#select{
+    font-family: 'Oswald', sans-serif;
+    
+}
+footer{
+    font-family: 'Oswald', sans-serif;
+    color:blue;
+}
+#calcula{
+    font-family: 'Oswald';
+    font-size: 20px;
+}
+
+option{
+    font-family: 'Oswald', sans-serif;
+}
+    color: red;
+}
+{
+    color: red;
+}
+    
